@@ -16,4 +16,4 @@ Projekt MIT - Zimní
 
 3.Závěr
 ======================================
-- až bude hotovo tak dopíšu, můžeš se těšit
+
