@@ -14,6 +14,4 @@ Projekt MIT - Zimní
 - akustický měnič (elektromagnetický bzučák)
 - LED displej (7-segment MAX7219)
 
-3.Závěr
-======================================
 
